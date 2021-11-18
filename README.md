@@ -1,4 +1,6 @@
 # weather
+![image](https://user-images.githubusercontent.com/49955609/142402740-d74b6a71-e3e3-4a0e-b3d7-81117c7cbbe5.png)
+
 
 ## Project setup
 ```
