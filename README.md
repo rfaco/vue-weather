@@ -1,5 +1,5 @@
 # weather
-![image](https://user-images.githubusercontent.com/49955609/142402740-d74b6a71-e3e3-4a0e-b3d7-81117c7cbbe5.png)
+![image](https://user-images.githubusercontent.com/49955609/143682220-10dab342-c922-4b9e-bff9-5754cd071c69.png)
 
 
 ## Project setup
